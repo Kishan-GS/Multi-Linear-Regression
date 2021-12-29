@@ -1,2 +1,2 @@
-# Multil-Lnear-Regression---Toyota
+# Multil-Linear-Regression-Toyota
 Prediction model for predicting Price.
